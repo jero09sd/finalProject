@@ -11,7 +11,8 @@ module.exports = {
       'mono': ['ui-monospace', 'SFMono-Regular', ],
       'display': ['Oswald', ],
       'body': ['"Open Sans"', ],
-      'Azkia': ['azkia-demo-regular']
+      'Azkia': ['azkia-demo-regular'],
+      'Untouched':['Untouched']
     }
   },
   plugins: [],
