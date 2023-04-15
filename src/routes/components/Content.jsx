@@ -1,5 +1,5 @@
 import React from 'react';
-import Cafe from '../assets/cafe.png'
+import Cafe from '../components/assets/cafe.png'
 
 const Content = () => {
     return(
